@@ -1,0 +1,87 @@
+{
+  "blocks": [
+    {
+      "id": 1,
+      "key": "sky",
+      "displayName": "Sky",
+      "retired": true
+    },
+    {
+      "id": 2,
+      "key": "dirt",
+      "displayName": "Dirt",
+      "layer": "Foreground",
+      "breakable": true,
+      "placeable": true,
+      "maxHealth": 3,
+      "solid": true,
+      "regenDelayTicks": 180
+    },
+    {
+      "id": 3,
+      "key": "grass",
+      "displayName": "Grass",
+      "layer": "Foreground",
+      "breakable": true,
+      "placeable": true,
+      "maxHealth": 3,
+      "solid": true,
+      "regenDelayTicks": 180
+    },
+    {
+      "id": 4,
+      "key": "stone",
+      "displayName": "Stone",
+      "layer": "Foreground",
+      "breakable": true,
+      "placeable": true,
+      "maxHealth": 3,
+      "solid": true,
+      "regenDelayTicks": 180
+    },
+    {
+      "id": 5,
+      "key": "marker",
+      "displayName": "Marker",
+      "layer": "Foreground",
+      "breakable": true,
+      "placeable": true,
+      "maxHealth": 3,
+      "solid": true,
+      "regenDelayTicks": 180
+    },
+    {
+      "id": 6,
+      "key": "deco",
+      "displayName": "Deco",
+      "layer": "HyperForeground",
+      "breakable": true,
+      "placeable": true,
+      "maxHealth": 3,
+      "solid": false,
+      "regenDelayTicks": 180
+    },
+    {
+      "id": 7,
+      "key": "bedrock",
+      "displayName": "Bedrock",
+      "layer": "Foreground",
+      "breakable": false,
+      "placeable": false,
+      "maxHealth": 1,
+      "solid": true,
+      "regenDelayTicks": 0
+    },
+    {
+      "id": 8,
+      "key": "dirt_wall",
+      "displayName": "Dirt Wall",
+      "layer": "Background",
+      "breakable": true,
+      "placeable": true,
+      "maxHealth": 3,
+      "solid": false,
+      "regenDelayTicks": 180
+    }
+  ]
+}

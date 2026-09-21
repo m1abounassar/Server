@@ -1,0 +1,49 @@
+{
+  "drops": [
+    {
+      "blockId": 2,
+      "rolls": [
+        { "kind": "item", "typeId": 2, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "item", "typeId": 1, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "currency", "typeId": 1, "chance": 1, "minQuantity": 1, "maxQuantity": 1 }
+      ]
+    },
+    {
+      "blockId": 3,
+      "rolls": [
+        { "kind": "item", "typeId": 4, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "item", "typeId": 3, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "currency", "typeId": 1, "chance": 1, "minQuantity": 1, "maxQuantity": 1 }
+      ]
+    },
+    {
+      "blockId": 4,
+      "rolls": [
+        { "kind": "item", "typeId": 6, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "item", "typeId": 5, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "currency", "typeId": 1, "chance": 1, "minQuantity": 1, "maxQuantity": 1 }
+      ]
+    },
+    {
+      "blockId": 5,
+      "rolls": [
+        { "kind": "item", "typeId": 8, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "item", "typeId": 7, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "currency", "typeId": 1, "chance": 1, "minQuantity": 1, "maxQuantity": 1 },
+        { "kind": "item", "typeId": 9, "chance": 1, "minQuantity": 1, "maxQuantity": 1 }
+      ]
+    },
+    {
+      "blockId": 6,
+      "rolls": []
+    },
+    {
+      "blockId": 7,
+      "rolls": []
+    },
+    {
+      "blockId": 8,
+      "rolls": []
+    }
+  ]
+}

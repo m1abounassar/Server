@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "key": "dirt_block",
+      "displayName": "Dirt Block",
+      "maxStack": 200,
+      "identity": "stackable",
+      "placement": { "blockId": 2 }
+    },
+    {
+      "id": 2,
+      "key": "dirt_seed",
+      "displayName": "Dirt Seed",
+      "maxStack": 200,
+      "identity": "stackable"
+    },
+    {
+      "id": 3,
+      "key": "grass_block",
+      "displayName": "Grass Block",
+      "maxStack": 200,
+      "identity": "stackable",
+      "placement": { "blockId": 3 }
+    },
+    {
+      "id": 4,
+      "key": "grass_seed",
+      "displayName": "Grass Seed",
+      "maxStack": 200,
+      "identity": "stackable"
+    },
+    {
+      "id": 5,
+      "key": "stone_block",
+      "displayName": "Stone Block",
+      "maxStack": 200,
+      "identity": "stackable",
+      "placement": { "blockId": 4 }
+    },
+    {
+      "id": 6,
+      "key": "stone_seed",
+      "displayName": "Stone Seed",
+      "maxStack": 200,
+      "identity": "stackable"
+    },
+    {
+      "id": 7,
+      "key": "marker_block",
+      "displayName": "Marker Block",
+      "maxStack": 200,
+      "identity": "stackable",
+      "placement": { "blockId": 5 }
+    },
+    {
+      "id": 8,
+      "key": "marker_seed",
+      "displayName": "Marker Seed",
+      "maxStack": 200,
+      "identity": "stackable"
+    },
+    {
+      "id": 9,
+      "key": "test_rare",
+      "displayName": "Test Rare",
+      "maxStack": 200,
+      "identity": "stackable"
+    },
+    {
+      "id": 10,
+      "key": "fist",
+      "displayName": "Fist",
+      "maxStack": 1,
+      "identity": "stackable",
+      "loadout": { "slot": 0, "permanent": true }
+    },
+    {
+      "id": 11,
+      "key": "wrench",
+      "displayName": "Wrench",
+      "maxStack": 1,
+      "identity": "stackable",
+      "loadout": { "slot": 1, "permanent": true }
+    }
+  ]
+}

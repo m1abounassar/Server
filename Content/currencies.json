@@ -1,0 +1,10 @@
+{
+  "currencies": [
+    {
+      "id": 1,
+      "key": "gems",
+      "displayName": "Gems",
+      "worldMaxStack": 999999
+    }
+  ]
+}
