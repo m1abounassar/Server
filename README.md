@@ -1,9 +1,9 @@
 # Sandbox Server
 
-Authoritative TCP game server for the current incremental milestone.
+Authoritative TCP game server.
 
 Default development bind is `127.0.0.1:7777`. Bind address and port are
-configurable. The protocol does not depend on localhost.
+configurable. The protocol does NOT depend on localhost.
 
 ## Run
 
